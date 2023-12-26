@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60984835726",
+    "project_id": "miapp-6641a",
+    "storage_bucket": "miapp-6641a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60984835726:android:81a8757d059e421cec13df",
+        "android_client_info": {
+          "package_name": "com.example.miapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlV2Q_tbXsoEf5GaPvy7noieMc1pIT7_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
